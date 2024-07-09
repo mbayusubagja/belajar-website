@@ -1,0 +1,69 @@
+.div-utama {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins';
+}
+
+.div-utama > p {
+    text-align: center;
+}
+
+footer {
+    float: right;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.website {
+    color : green;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.navigasi {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.navigasi > a {
+    color: black;
+}
+
+body {
+    background-color: white;
+}
+
+p {
+    margin: 0;
+}
+
+.konten {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.gambar {
+    border: 1px solid whitesmoke ;
+    border-radius: 8px;
+
+}
+
+.gambar p {
+    color: ;
+}
